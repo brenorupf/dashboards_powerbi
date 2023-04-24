@@ -14,7 +14,7 @@ Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNGE4YzMxZTMtYWJiYy00ODBhLThkMz
 
 - Desafio Data Glow Up 8: Envolve dados de streams do Spotify e de views do Youtube. 
 
-Dashboards: https://app.powerbi.com/view?r=eyJrIjoiOWY4MGRmMTUtNDFiYS00MjA4LTk4MjAtNWRkZTc1MTZmZWEwIiwidCI6IjYzOTc3ZmU3LTAwNjgtNDI0ZC05YTAyLTNmYTg3MGQ5ZGE5MyJ9&pageName=ReportSection1631539c0d10a575be91
+Análises/Insights: https://docs.google.com/document/d/1D2djUEb0ct6cQ9G-Yhr0S3YCBFv2fAAevLOw2cRIVk8/edit?usp=sharing
 
-Análises: https://docs.google.com/document/d/1D2djUEb0ct6cQ9G-Yhr0S3YCBFv2fAAevLOw2cRIVk8/edit?usp=sharing
+Dashboards: https://app.powerbi.com/view?r=eyJrIjoiOWY4MGRmMTUtNDFiYS00MjA4LTk4MjAtNWRkZTc1MTZmZWEwIiwidCI6IjYzOTc3ZmU3LTAwNjgtNDI0ZC05YTAyLTNmYTg3MGQ5ZGE5MyJ9&pageName=ReportSection1631539c0d10a575be91
 
