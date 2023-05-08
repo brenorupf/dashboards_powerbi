@@ -20,5 +20,5 @@ Dashboards: https://app.powerbi.com/view?r=eyJrIjoiOWY4MGRmMTUtNDFiYS00MjA4LTk4M
 
 - Desafio Data Glow Up 10:  Desta vez, o Heitor Sasaki disponibilizou dados da franquia Star Wars. Alguns datasets trazem detalhes sobre as naves e veículos, mas optei por focar na geografia. Resolvi trazer algumas informações retiradas das tabelas sobre os personagens, espécies e planetas. 
 
-Dashboards: https://app.powerbi.com/view?r=eyJrIjoiNzE4NDQ5MzAtNjRmYi00NzAwLWJmMTgtODE4Y2UwNzRlMzdjIiwidCI6IjYzOTc3ZmU3LTAwNjgtNDI0ZC05YTAyLTNmYTg3MGQ5ZGE5MyJ9
+Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNzE4NDQ5MzAtNjRmYi00NzAwLWJmMTgtODE4Y2UwNzRlMzdjIiwidCI6IjYzOTc3ZmU3LTAwNjgtNDI0ZC05YTAyLTNmYTg3MGQ5ZGE5MyJ9
 
